@@ -1088,7 +1088,7 @@ ul.elements li > i{
   text-align: center;
   font-weight: bold;
   line-height: 2.0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 1px;
   margin-top: 0cm;
   margin-bottom: 2cm;
